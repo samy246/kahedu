@@ -1,0 +1,34 @@
+/* #salary{
+    font-size: 20px;
+}
+
+#role{
+    font-size: 10px;
+} */
+#placementlogindiv{
+    display: flex;
+    justify-content: end;
+}
+#placementlogin{
+    background-color:#218838;
+    border-radius: 20px;
+    margin: 10px;
+    outline: none;
+    border: none;
+
+}
+#placementtitle{
+    display: flex;
+    justify-content: center;
+   background-color:  #d0dae3;
+   padding: 10px;
+}
+
+#regclosemodal{
+    background-color:#218838;
+
+}
+
+#placementregister{
+    background-color:#218838;
+}
