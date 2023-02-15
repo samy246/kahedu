@@ -6,7 +6,7 @@ import CountUp from "react-countup";
 import "./about.css";
 import Header from "../Header/Header";
 import Footer from '../Footer/Footer'
-const About = () => {
+const Staff = () => {
   return (
     <>
     <Header/>
@@ -75,4 +75,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Staff;
